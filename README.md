@@ -61,4 +61,7 @@ GEMINI_API_KEY="votre_clé_api"
 ## Licence
 Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le distribuer avec attribution.
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-blue?logo=flask)
+![Google Gemini](https://img.shields.io/badge/Gemini-API-green?logo=google)
 
